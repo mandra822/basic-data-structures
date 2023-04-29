@@ -1,0 +1,5 @@
+﻿  Heap.cpp
+C:\Users\malan\Desktop\studia\4 sem\SDiZO\Project1.2\Heap.cpp(192,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Tests.cpp
+  Generowanie kodu...
+  Project1.2.vcxproj -> C:\Users\malan\Desktop\studia\4 sem\SDiZO\Project1.2\Debug\Project1.2.exe
